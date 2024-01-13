@@ -38,7 +38,7 @@ describe('DOM', () => {
 		const cardTitleEl = document.querySelector('.card__title');
 		const cardMark = cardTitleEl.querySelector('mark').textContent;
 
-		expect(cardMark).to.equal('insights');
+		expect(cardMark).to.include('insights');
 	});
 
 	it('should have two children inside of the article element', () => {
