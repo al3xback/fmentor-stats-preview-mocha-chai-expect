@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-mocha-chai-expect",
 	"version": "1.0.0",
-	"description": "stats preview card component using mocha and chai testing with expect style",
+	"description": "stats preview card component using mocha and chai with expect style",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
